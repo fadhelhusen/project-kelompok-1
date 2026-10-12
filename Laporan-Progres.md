@@ -4,6 +4,7 @@
 2. Ahmad Ali Murtadlo
 3. Fadli Fernando
 4. Naula Alfiyatul Fauziyyah
+5. Irfan Mubarok
 
 ### Progres 1 Pertemuan 5 ###
 1. PM membuat repository dan invite member
