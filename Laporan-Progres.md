@@ -17,11 +17,16 @@ npx create-expo-app@latest
 4. Konfirmasi Bukti
 
 Tugas Member:
+Irfan Mubarok
 1. Accept Invitation
 2. Bukti Konfirmasi
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 3. Clone Prject
 4. Konfirmasi Bukti
+![alt text](image-3.png)
+
 
 Tugas Bersama:
 1. Diskusi Penentuan Tema(Notulen Diskusi)
