@@ -67,8 +67,8 @@ Fadli:
 - Target:
 
 Aldo:
-- Tema :
-- Target :
+- Tema : Explore Cirebon (Aplikasi Wisata Lokal)
+- Target : Wisatawan berusia 18–40 tahun dan warga lokal yang ingin mengeksplorasi Cirebon.
 
 Naula :
 - Tema :
