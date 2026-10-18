@@ -20,8 +20,10 @@ Tugas Member:
 Fadli:
 1. Accept Invitation
 2. Bukti Konfirmasi
+![alt text](<Screenshot 2026-10-12 094304.png>)
 3. Clone Proyek
 4. Bukti Konfirmasi
+![alt text](<Screenshot 2026-10-12 100547.png>)
 
 Aldo:
 1. Accept invitation
@@ -61,8 +63,8 @@ Fadheel:
 * Target:
 
 Fadli:
-- Tema :
-- Target:
+- Tema : Sistem Pengaduan Kerusakan Fasilitas Kampus
+- Target: Seluruh Civitas Akademik
 
 Aldo:
 - Tema :
