@@ -26,8 +26,10 @@ Fadli:
 Aldo:
 1. Accept invitation
 2. Bukti Konfirmasi
+![alt text](<Screenshot 2026-10-18 215231.png>)
 3. Clone Proyek
 4. Bukti Konfirmasi
+![alt text](image-1.png)
 
 Naula:
 1. Accept invitation
