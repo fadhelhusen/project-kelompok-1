@@ -1,4 +1,4 @@
-# Laporan Progres Kelompok 2 #
+# Laporan Progres Kelompok 1 #
 ## Anggota Kelompok ##
 1. Fadheel Abdillah Husen
 2. Ahmad Ali Murtadlo
@@ -17,11 +17,66 @@ npx create-expo-app@latest
 4. Konfirmasi Bukti
 
 Tugas Member:
+Fadli:
 1. Accept Invitation
 2. Bukti Konfirmasi
+3. Clone Proyek
+4. Bukti Konfirmasi
 
-3. Clone Prject
-4. Konfirmasi Bukti
+Aldo:
+1. Accept invitation
+2. Bukti Konfirmasi
+3. Clone Proyek
+4. Bukti Konfirmasi
+
+Naula:
+1. Accept invitation
+2. Bukti konfirmasi
+3. Clone proyek
+4. Bukti konfirmasi
+
+Irfan:
+1. Accept invitation
+2. Bukti konfirmasi
+3. Clone proyek
+4. Bukti konfirmasi
+
 
 Tugas Bersama:
-1. Diskusi Penentuan Tema(Notulen Diskusi)
+1. Diskusi Penentuan Tema
+
+# Notulen diskusi Kelompok 1 #
+Nama Kelompok   : Kelompok 1
+Hari/Tanggal    : Kamis, 15 OKtober 2026
+Tempat/Media    : Gedung Siber
+
+## Agenda Diskusi ##
+1.	Mengusulkan ide tema aplikasi mobile
+2.	Menentukan target pengguna aplikasi
+
+## Daftar Ide Tema ##
+
+Fadheel:
+* Tema :
+* Target:
+
+Fadli:
+- Tema :
+- Target:
+
+Aldo:
+- Tema :
+- Target :
+
+Naula :
+- Tema :
+- Target :
+
+Irfan :
+- Tema:
+- Target:
+
+## Hasil dan Keputusan ##
+Tema yang diusulkan: 
+Alasan pemilihan: 
+Target pengguna:
