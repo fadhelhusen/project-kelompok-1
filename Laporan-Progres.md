@@ -37,9 +37,12 @@ Naula:
 
 Irfan:
 1. Accept invitation
+![alt text](<Screenshot 2026-10-12 093606.png>)
 2. Bukti konfirmasi
+![alt text](<Screenshot 2026-10-12 093636.png>)
 3. Clone proyek
 4. Bukti konfirmasi
+![alt text](<Screenshot 2026-10-12 093722.png>)
 
 
 Tugas Bersama:
@@ -73,8 +76,8 @@ Naula :
 - Target :
 
 Irfan :
-- Tema:
-- Target:
+- Tema: CBT Exam
+- Target: Sekolah (MTs Darul Muttaqin)
 
 ## Hasil dan Keputusan ##
 Tema yang diusulkan: 
