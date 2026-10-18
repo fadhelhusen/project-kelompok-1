@@ -15,6 +15,7 @@
 npx create-expo-app@latest
 
 4. Konfirmasi Bukti
+<img src="iPhone-14-PRO-localhost-9pznvw1ynajvam.gif" width="250">
 
 Tugas Member:
 Fadli:
@@ -68,8 +69,8 @@ Tempat/Media    : Gedung Siber
 ## Daftar Ide Tema ##
 
 Fadheel:
-* Tema :
-* Target:
+* Tema : Sistem Manajemen Operasional UMKM Tahu Kocek (Inventaris Bahan Baku, Penjadwalan *Shift*, dan Rekap Laporan)
+* Target: Pemilik Usaha
 
 Fadli:
 - Tema : Sistem Pengaduan Kerusakan Fasilitas Kampus
@@ -92,6 +93,6 @@ Irfan :
 - Target: Sekolah (MTs Darul Muttaqin)
 
 ## Hasil dan Keputusan ##
-Tema yang diusulkan: 
-Alasan pemilihan: 
-Target pengguna:
+Tema yang diusulkan: Pengembangan Aplikasi *Computer-Based Test* (CBT) Offline
+Alasan pemilihan: Ujian di MTs Darul Muttaqin masih dilakukan secara manual menggunakan kertas yang kurang efisien secara biaya dan waktu koreksi. Penggunaan ujian berbasis digital biasa terhambat oleh koneksi internet dan potensi kecurangan. Aplikasi CBT Offline ini dirancang untuk menyelesaikan kendala tersebut tanpa perlu bergantung pada koneksi internet yang stabil.
+Target pengguna: Guru dan Siswa di MTs Darul Muttaqin.
