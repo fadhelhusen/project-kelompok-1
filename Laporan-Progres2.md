@@ -100,6 +100,7 @@ Berdasarkan hasil wawancara, kebutuhan pengguna terhadap aplikasi CBT Offline me
 
 ## 3. Rancangan Layar yang Telah Dibuat
 1. Rancangan Halaman Login
+<img src="iPhone-14-PRO-localhost--i-bb5zz2kg41_.gif" width="250">
 2. Rancangan Halaman Dashboard
 3. Rancangan Halaman Detail Ujian (Belum Download)
 4. Rancangan Halaman Detail Ujian (Sudah Download)
