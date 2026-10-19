@@ -15,19 +15,24 @@
 npx create-expo-app@latest
 
 4. Konfirmasi Bukti
+<img src="iPhone-14-PRO-localhost-9pznvw1ynajvam.gif" width="250">
 
 Tugas Member:
 Fadli:
 1. Accept Invitation
 2. Bukti Konfirmasi
+![alt text](<Screenshot 2026-10-12 094304.png>)
 3. Clone Proyek
 4. Bukti Konfirmasi
+![alt text](<Screenshot 2026-10-12 100547.png>)
 
 Aldo:
 1. Accept invitation
 2. Bukti Konfirmasi
+![alt text](<Screenshot 2026-10-18 215231.png>)
 3. Clone Proyek
 4. Bukti Konfirmasi
+![alt text](image-1.png)
 
 Naula:
 1. Accept invitation
@@ -43,9 +48,12 @@ Naula:
 
 Irfan:
 1. Accept invitation
+![alt text](<Screenshot 2026-10-12 093606.png>)
 2. Bukti konfirmasi
+![alt text](<Screenshot 2026-10-12 093636.png>)
 3. Clone proyek
 4. Bukti konfirmasi
+![alt text](<Screenshot 2026-10-12 093722.png>)
 
 
 Tugas Bersama:
@@ -63,16 +71,16 @@ Tempat/Media    : Gedung Siber
 ## Daftar Ide Tema ##
 
 Fadheel:
-* Tema :
-* Target:
+* Tema : Sistem Manajemen Operasional UMKM Tahu Kocek (Inventaris Bahan Baku, Penjadwalan *Shift*, dan Rekap Laporan)
+* Target: Pemilik Usaha
 
 Fadli:
-- Tema :
-- Target:
+- Tema : Sistem Pengaduan Kerusakan Fasilitas Kampus
+- Target: Seluruh Civitas Akademik
 
 Aldo:
-- Tema :
-- Target :
+- Tema : Explore Cirebon (Aplikasi Wisata Lokal)
+- Target : Wisatawan berusia 18–40 tahun dan warga lokal yang ingin mengeksplorasi Cirebon.
 
 Naula :
 - Tema :
@@ -83,10 +91,10 @@ Naula :
     2. Pelaku usaha Penitipan Hewan
 
 Irfan :
-- Tema:
-- Target:
+- Tema: CBT Exam
+- Target: Sekolah (MTs Darul Muttaqin)
 
 ## Hasil dan Keputusan ##
-Tema yang diusulkan: 
-Alasan pemilihan: 
-Target pengguna:
+Tema yang diusulkan: Pengembangan Aplikasi *Computer-Based Test* (CBT) Offline
+Alasan pemilihan: Ujian di MTs Darul Muttaqin masih dilakukan secara manual menggunakan kertas yang kurang efisien secara biaya dan waktu koreksi. Penggunaan ujian berbasis digital biasa terhambat oleh koneksi internet dan potensi kecurangan. Aplikasi CBT Offline ini dirancang untuk menyelesaikan kendala tersebut tanpa perlu bergantung pada koneksi internet yang stabil.
+Target pengguna: Guru dan Siswa di MTs Darul Muttaqin.
